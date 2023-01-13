@@ -1,0 +1,5 @@
+client Id : 518001595224-di9f2q2d685qink2d04tfc50k57mcha1.apps.googleusercontent.com
+client Secret :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 
+
+root admin id : ozUPD97dWwWFiQMEdxVAW3cRjzwqO052ye5RZQX3
+admin client Secret: ugdWMX9haICZr2jqCzacBpeUQWVX72Y5ADyWQMhgmAgZQJMNdc0dHiDBUXuvLTJWaGoQxvdBXRhSDCisabWQ8CYGJLR0Oj6tUAy5zma997clwoanoTvdQW1ks4CY3jlJ
